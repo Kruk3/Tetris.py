@@ -1,0 +1,10 @@
+STEROWANIE:
+> - poruszanie w prawo
+< - poruszanie w lewo
+^ - obracanie
+v - opadanie klocka
+
+
+Najlepszy wynik zapisywany jest w scores.txt
+
+Gra ma skalujący poziom trudności-spadanie klocków przyspiesza wraz z czasem gry
